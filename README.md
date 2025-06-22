@@ -1,27 +1,42 @@
-# 👋 Hi, I'm Florian
+# 👋 Hi, I’m Florian
 
-CTO & Co-Founder of [NanoAPI](https://nanoapi.io), where we're helping engineering teams modernize legacy codebases one endpoint at a time — safely, incrementally, and without rewrites.
-
----
-
-## 🚧 What I’m building
-
-- [`napi`](https://github.com/nanoapi-io/napi): A CLI that analyzes and splits monolithic APIs into independently deployable units
-- [stackcore](https://github.com/nanoapi-io/napi) A self-hostable platform with symbol-aware code visualizations, dependency graphs, and queryable insights
-- AI tools that label code by domain (e.g. auth, billing) and accelerate modularization
+I'm a hands-on CTO and full-stack engineer with a track record of building developer tools, scaling backend systems, and leading small, fast-moving teams.
 
 ---
 
-## 💡 What I care about
+## 🚀 Building NanoAPI
 
-- Building tools that give developers visibility, control, and velocity
-- Designing systems that scale with complexity, not just size
-- Creating calm, high-trust environments that ship great software
+As Co-Founder & CTO of [NanoAPI](https://nanoapi.io) (Techstars Berlin ‘24), I'm building a developer-first platform that helps teams modernize legacy codebases safely and incrementally—one symbol at a time.
+
+**NanoAPI combines:**
+- 🛠️ A local CLI [napi](https://github.com/nanoapi-io/napi) for static code analysis and automation
+- ☁️ A cloud platform [stackcore](https://github.com/nanoapi-io/stackcore) with a graph UI and APIs for architectural insights
+- 🤖 AI-assisted labeling and MCP server for code understanding, modularization, and querying (in progress)
+
+We help developers extract independent units from monoliths with zero rewrites and minimal risk.
+
+→ [github.com/nanoapi-io](https://github.com/nanoapi-io)
+
+---
+
+## 🧠 I care about
+
+- Making large codebases understandable, maintainable, and modular
+- Building tools that empower developers with clarity and control
+- Leading with speed, ownership, and purpose in high-trust teams
+
+Languages I use regularly: **TypeScript**, **Go**, **Python**
+
+---
+
+## 🛠️ Previously
+
+📄 Full background on [LinkedIn](https://linkedin.com/in/florianbgt)
 
 ---
 
 ## 📫 Get in touch
 
-- florian@nanoapi.io  
-- [nanoapi.io](https://nanoapi.io)  
-- [github.com/nanoapi-io](https://github.com/nanoapi-io)
+- Email: **florian@nanoapi.io**
+- LinkedIn: [linkedin.com/in/florianbgt](https://linkedin.com/in/florianbgt)
+- Website: [nanoapi.io](https://nanoapi.io)
