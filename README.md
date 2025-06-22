@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Florian
 
-<!--
-**florianbgt/florianbgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO & Co-Founder of [NanoAPI](https://nanoapi.io), where we're helping engineering teams modernize legacy codebases one endpoint at a time — safely, incrementally, and without rewrites.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I’m building
+
+- [`napi`](https://github.com/nanoapi-io/napi): A CLI that analyzes and splits monolithic APIs into independently deployable units
+- [stackcore](https://github.com/nanoapi-io/napi) A self-hostable platform with symbol-aware code visualizations, dependency graphs, and queryable insights
+- AI tools that label code by domain (e.g. auth, billing) and accelerate modularization
+
+---
+
+## 💡 What I care about
+
+- Building tools that give developers visibility, control, and velocity
+- Designing systems that scale with complexity, not just size
+- Creating calm, high-trust environments that ship great software
+
+---
+
+## 📫 Get in touch
+
+- florian@nanoapi.io  
+- [nanoapi.io](https://nanoapi.io)  
+- [github.com/nanoapi-io](https://github.com/nanoapi-io)
