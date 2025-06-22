@@ -40,3 +40,12 @@ Languages I use regularly: **TypeScript**, **Go**, **Python**
 - Email: **florian@nanoapi.io**
 - LinkedIn: [linkedin.com/in/florianbgt](https://linkedin.com/in/florianbgt)
 - Website: [nanoapi.io](https://nanoapi.io)
+
+💬 **Open to chats with engineers, founders, or teams tackling tough technical challenges** — especially around:
+
+- Code understanding & refactoring at scale  
+- Developer experience & internal tooling  
+- Infrastructure design & modular architectures  
+- Where software meets physical systems  
+
+Always happy to share thoughts, pair up, or brainstorm around messy code and sharp ideas.
