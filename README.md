@@ -26,3 +26,4 @@ Most of my public work lives under [github.com/nanoapi-io](https://github.com/na
 
 - LinkedIn: [linkedin.com/in/florianbgt](https://linkedin.com/in/florianbgt)
 - Email: florian.bigot321@gmail.com
+- Gitlab: [https://gitlab.com/florianbgt](https://gitlab.com/florianbgt)
